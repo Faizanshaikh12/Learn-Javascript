@@ -449,4 +449,21 @@ window.close
 */
 
 
-// =============== ECMAScripts Advance ==================
+// ============ Modern ECMAScripts Advance ===============
+/*
+Var, Let & Const
+Template Litrals
+Defulat Parameters
+Reset Parameters
+Spread Operator
+Array Destructuring
+Object Destructuring
+Fat Arrow Function
+For Loop
+Math.sign & Math.trunc
+Import & Export
+--------- OOP ---------
+Object & Class
+Constructor
+Static Veriable, Static Methods 	
+*/
