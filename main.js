@@ -1,5 +1,4 @@
 // =============== JAVASCRIPT BASE ==================
-
 /* 1. Watching Javascript Output :
  	-> alert
  	-> console.log
@@ -353,6 +352,17 @@ beforebegin : Add the Start Div before
 afterbegin  : Add the Start Div after
 beforeend   : Add the end Div before
 afterend    : Add the end Div after
+----------- Page Event --------------
+DOMContentLoad
+load
+beforeunload / unload
+----------- Forms Event --------------
+input : use the addEventListner('input',(),  : options)
+focus
+blur
+search
+submit
+change
 */
 
 // Ex: document.getElementById
@@ -423,4 +433,20 @@ setTimeout(function, milliseconds)
 // 		console.log(name);
 // 	}	
 // }
-console.log("fdnfkdkfb");
+
+/////////////////// Inline Style ///////////////////
+/* 
+style
+setAttribute
+className
+classList
+*/
+
+/////////////////// Window Open/Close ///////////////////
+/* 
+window.open
+window.close
+*/
+
+
+// =============== ECMAScripts Advance ==================
